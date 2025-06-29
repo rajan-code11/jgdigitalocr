@@ -1,0 +1,3 @@
+// Settings file for Gradle. Lists modules included in your project.
+rootProject.name = 'jgdigitalocr'
+include ':app'
